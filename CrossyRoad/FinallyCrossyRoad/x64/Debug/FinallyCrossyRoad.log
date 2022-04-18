@@ -1,0 +1,48 @@
+﻿  main.cpp
+f:\projectshobby\finallycrossyroad\finallycrossyroad\main.cpp(14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\projectshobby\finallycrossyroad\finallycrossyroad\main.cpp(21): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+f:\projectshobby\finallycrossyroad\finallycrossyroad\main.cpp(28): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+f:\projectshobby\finallycrossyroad\finallycrossyroad\main.cpp(44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+f:\projectshobby\finallycrossyroad\finallycrossyroad\main.cpp(50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+f:\projectshobby\finallycrossyroad\finallycrossyroad\main.cpp(54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+f:\projectshobby\finallycrossyroad\finallycrossyroad\main.cpp(58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+f:\projectshobby\finallycrossyroad\finallycrossyroad\main.cpp(62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+f:\projectshobby\finallycrossyroad\finallycrossyroad\main.cpp(87): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\projectshobby\finallycrossyroad\finallycrossyroad\main.cpp(122): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  FinallyCrossyRoad.vcxproj -> F:\ProjectsHobby\FinallyCrossyRoad\x64\Debug\FinallyCrossyRoad.exe

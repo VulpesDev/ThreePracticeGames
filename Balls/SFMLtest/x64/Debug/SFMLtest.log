@@ -1,0 +1,16 @@
+﻿  main.cpp
+f:\projectshobby\sfmltest\sfmltest\main.cpp(34): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+f:\projectshobby\sfmltest\sfmltest\main.cpp(98): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  SFMLtest.vcxproj -> F:\ProjectsHobby\SFMLtest\x64\Debug\SFMLtest.exe
